@@ -2,3 +2,20 @@ This is my custom filter based on RenTed's filter.
 
 Link for POD Launcher: 
 https://raw.githubusercontent.com/otreborsetroc/PodFilter/master/item.filter
+
+----------------------
+-- things to change --
+----------------------
+blade bows - why are these showing? even damaged quality?
+
+runes low [green]
+runes *crafting [green with craft name blood/caster]
+runes mid [orange]
+runes high [purple]
+gems [yellow]
+
+items that sell for $ > for gambling
+
+newb items good for starting
+sigons
+more white skill items
