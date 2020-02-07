@@ -216,7 +216,7 @@ ItemDisplay[r06]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[6]
 //Tal
 ItemDisplay[r07]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[7]
 //Ral
-ItemDisplay[r08]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GREEN%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[8]
+ItemDisplay[r08]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[8]
 //Ort
 ItemDisplay[r09]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[9]
 //Thul
