@@ -1,9 +1,6 @@
-﻿//RenTed#3537 Loot Filter
-//PM me on Discord if you find any issue(s) or you droped a T5 Relic.
-//Please take a screenshot when reporting something, it will greatly help me fixing it.
-//If something is missing, let me know I will add it.
-//
-//
+﻿//My custom loot filter.
+//Based on RenTed#3537 Loot Filter
+//Missing T5 Relic.
 //
 //╔═════════════════════╗
 //║ Miscellaneous Items ║
@@ -16,26 +13,26 @@ ItemDisplay[CLVL>19 GOLD<250]:
 ItemDisplay[CLVL<20 GOLD<1]:
 ItemDisplay[cx5]: %GREEN%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %PURPLE%Orb of Corruption %GREEN%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[maz]: %GREEN%¤¤¤¤¤¤ %RED%Infernal Trial %GREEN%¤¤¤¤¤¤
-ItemDisplay[ma2]: %GREEN%¤¤¤¤¤¤ %PURPLE%Forgotten Desert %TAN%[T4]
-ItemDisplay[ma4]: %GREEN%¤¤¤¤¤¤ %PURPLE%Desecrated Temple %TAN%[T1]
-ItemDisplay[ma5]: %GREEN%¤¤¤¤¤¤ %PURPLE%Frigid Plateau %TAN%[T2]
-ItemDisplay[ma6]: %GREEN%¤¤¤¤¤¤ %PURPLE%Runed Chapel %TAN%[T3]
-ItemDisplay[ma7]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 1 %TAN%[T5]
-ItemDisplay[ma8]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 2 %TAN%[T5]
-ItemDisplay[ma9]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 3 %TAN%[T5]
-ItemDisplay[ma10]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 4 %TAN%[T5]
-ItemDisplay[tes]: %RED%¤¤ %ORANGE%Suffering %RED%[Andariel]
-ItemDisplay[ceh]: %RED%¤¤ %ORANGE%Hatred %RED%[Mephisto]
-ItemDisplay[bet]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %ORANGE%Terror %RED%[Diablo]
-ItemDisplay[fed]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %ORANGE%Destruction %RED%[Baal]
+ItemDisplay[ma2]: %GREEN%¤¤¤¤¤¤ %PURPLE%Forgotten Desert %TAN%[T4] %GREEN%¤¤¤¤¤¤
+ItemDisplay[ma4]: %GREEN%¤¤¤¤¤¤ %PURPLE%Desecrated Temple %TAN%[T1] %GREEN%¤¤¤¤¤¤
+ItemDisplay[ma5]: %GREEN%¤¤¤¤¤¤ %PURPLE%Frigid Plateau %TAN%[T2] %GREEN%¤¤¤¤¤¤
+ItemDisplay[ma6]: %GREEN%¤¤¤¤¤¤ %PURPLE%Runed Chapel %TAN%[T3] %GREEN%¤¤¤¤¤¤
+ItemDisplay[ma7]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 1 %TAN%[T5] %GREEN%¤¤¤¤¤¤
+ItemDisplay[ma8]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 2 %TAN%[T5] %GREEN%¤¤¤¤¤¤
+ItemDisplay[ma9]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 3 %TAN%[T5] %GREEN%¤¤¤¤¤¤
+ItemDisplay[ma10]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 4 %TAN%[T5] %GREEN%¤¤¤¤¤¤
+ItemDisplay[tes]: %RED%¤¤ %ORANGE%Suffering %RED%[Andariel] ¤¤
+ItemDisplay[ceh]: %RED%¤¤ %ORANGE%Hatred %RED%[Mephisto] ¤¤
+ItemDisplay[bet]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %ORANGE%Terror %RED%[Diablo] ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[fed]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %ORANGE%Destruction %RED%[Baal] ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[toa]: %RED%¤¤ %PURPLE%Token of Absolution %RED%¤¤
 ItemDisplay[cx7]: %RED%¤¤ %PURPLE%%NAME% %RED%¤¤
-ItemDisplay[pk1]: %RED%¤¤ %ORANGE%Terror %RED%[Countess]
-ItemDisplay[pk2]: %RED%¤¤ %ORANGE%Hate %RED%[Summoner]
-ItemDisplay[pk3]: %RED%¤¤ %ORANGE%Destruction %RED%[Nihlathak]
-ItemDisplay[dhn]: %RED%¤¤ %PURPLE%Diablo's Horn
-ItemDisplay[bey]: %RED%¤¤ %PURPLE%Baal's Eye
-ItemDisplay[mbr]: %RED%¤¤ %PURPLE%Mephisto's Brain
+ItemDisplay[pk1]: %RED%¤¤ %ORANGE%Terror %RED%[Countess] ¤¤
+ItemDisplay[pk2]: %RED%¤¤ %ORANGE%Hate %RED%[Summoner] ¤¤
+ItemDisplay[pk3]: %RED%¤¤ %ORANGE%Destruction %RED%[Nihlathak] ¤¤
+ItemDisplay[dhn]: %RED%¤¤ %PURPLE%Diablo's Horn %RED%¤¤
+ItemDisplay[bey]: %RED%¤¤ %PURPLE%Baal's Eye %RED%¤¤
+ItemDisplay[mbr]: %RED%¤¤ %PURPLE%Mephisto's Brain %RED%¤¤
 ItemDisplay[cx6]: %RED%¤¤ %PURPLE%%NAME% %RED%¤¤
 ItemDisplay[std]: %TAN%%NAME%
 ItemDisplay[cx9]: %NAME%
@@ -219,23 +216,23 @@ ItemDisplay[r06]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[6]
 //Tal
 ItemDisplay[r07]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[7]
 //Ral
-ItemDisplay[r08]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GREEN%%RUNENAME% %ORANGE¤¤¤¤¤¤¤¤¤¤ %TAN%[8]
+ItemDisplay[r08]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GREEN%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[8]
 //Ort
-ItemDisplay[r09]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% ¤¤¤¤¤ %TAN%[9]
+ItemDisplay[r09]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[9]
 //Thul
-ItemDisplay[r10]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% ¤¤¤¤¤ %TAN%[10]
+ItemDisplay[r10]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[10]
 //Amn
-ItemDisplay[r11]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% ¤¤¤¤¤ %TAN%[11]
+ItemDisplay[r11]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[11]
 //Sol
-ItemDisplay[r12]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% ¤¤¤¤¤ %TAN%[12]
+ItemDisplay[r12]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[12]
 //Shael
-ItemDisplay[r13]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% ¤¤¤¤¤ %TAN%[13]
+ItemDisplay[r13]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[13]
 //Dol
-ItemDisplay[r14]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% ¤¤¤¤¤ %TAN%[14]
+ItemDisplay[r14]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[14]
 //Hel
-ItemDisplay[r15]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% ¤¤¤¤¤ %TAN%[15]
+ItemDisplay[r15]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[15]
 //Io
-ItemDisplay[r16]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% ¤¤¤¤¤ %TAN%[16]
+ItemDisplay[r16]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[16]
 
 //runes mid++ [worth cubing/collecting]
 //Lum
@@ -358,9 +355,9 @@ ItemDisplay[ID MAG cq2]: %NAME% %BLUE%[%ILVL%]
 ItemDisplay[ID MAG EQ4]: %NAME% %BLUE%[%ILVL%]
 ItemDisplay[ID MAG EQ5]: %NAME% %BLUE%[%ILVL%]
 ItemDisplay[ID MAG EQ6]: %NAME% %BLUE%[%ILVL%]
-ItemDisplay[ID MAG cm1]: %BLUE%¤¤ %ORANGE%%NAME% %BLUE%¤¤ %TAN%[%ILVL%]
+ItemDisplay[ID MAG cm1]: %BLUE%¤¤¤¤¤ %ORANGE%%NAME% %BLUE%¤¤¤¤¤ %TAN%[%ILVL%]
 ItemDisplay[ID MAG cm2]: %BLUE%¤ %ORANGE%%NAME% %BLUE%¤ %TAN%[%ILVL%]
-ItemDisplay[ID MAG cm3]: %BLUE%¤¤ %ORANGE%%NAME% %BLUE%¤¤ %TAN%[%ILVL%]
+ItemDisplay[ID MAG cm3]: %BLUE%¤¤¤¤¤ %ORANGE%%NAME% %BLUE%¤¤¤¤¤ %TAN%[%ILVL%]
 ItemDisplay[ID MAG SOCK=0 !ETH]: %NAME% %RED%[%SOCKETS%] %TAN%[%ILVL%]
 ItemDisplay[ID MAG SOCK=0 ETH]: %WHITE%ETH %BLUE%%NAME% %RED%[%SOCKETS%] %TAN%[%ILVL%]
 ItemDisplay[ID MAG !SOCK=0 !ETH]: %NAME% %RED%[%SOCKETS%] %TAN%[%ILVL%]
