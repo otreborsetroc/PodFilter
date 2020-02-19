@@ -21,7 +21,6 @@ ItemDisplay[ma7]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 1 %TAN%[T5] %GREEN%�
 ItemDisplay[ma8]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 2 %TAN%[T5] %GREEN%¤¤¤¤¤¤
 ItemDisplay[ma9]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 3 %TAN%[T5] %GREEN%¤¤¤¤¤¤
 ItemDisplay[ma10]: %GREEN%¤¤¤¤¤¤ %PURPLE%T5 Relic Test 4 %TAN%[T5] %GREEN%¤¤¤¤¤¤
-ItemDisplay[tes]: %RED%¤¤ %ORANGE%Suffering %RED%[Andariel] ¤¤
 ItemDisplay[ceh]: %RED%¤¤ %ORANGE%Hatred %RED%[Mephisto] ¤¤
 ItemDisplay[bet]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %ORANGE%Terror %RED%[Diablo] ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 ItemDisplay[fed]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %ORANGE%Destruction %RED%[Baal] ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
@@ -240,37 +239,37 @@ ItemDisplay[r17]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤
 //Ko
 ItemDisplay[r18]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[18]
 //Fal
-ItemDisplay[r19]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[19]
+ItemDisplay[r19]: %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[19]
 //Lem
-ItemDisplay[r20]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[20]
+ItemDisplay[r20]: %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[20]
 //Pul
-ItemDisplay[r21]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[21]
+ItemDisplay[r21]: %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[21]
 //Um
-ItemDisplay[r22]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[22]
+ItemDisplay[r22]: %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[22]
 //Mal
-ItemDisplay[r23]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[23]
+ItemDisplay[r23]: %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[23]
 //Ist
-ItemDisplay[r24]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[24]
+ItemDisplay[r24]: %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[24]
 //Gul
-ItemDisplay[r25]: %ORANGE%¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤ %TAN%[25]
+ItemDisplay[r25]: %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %GOLD%%RUNENAME% %ORANGE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[25]
 
 //runes high [worth cubing/collecting]
 //Vex
-ItemDisplay[r26]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[26]
+ItemDisplay[r26]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[26]
 //Ohm
-ItemDisplay[r27]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[27]
+ItemDisplay[r27]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[27]
 //Lo
-ItemDisplay[r28]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[28]
+ItemDisplay[r28]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[28]
 //Sur
-ItemDisplay[r29]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[29]
+ItemDisplay[r29]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[29]
 //Ber
-ItemDisplay[r30]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[30]
+ItemDisplay[r30]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[30]
 //Jah
-ItemDisplay[r31]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[31]
+ItemDisplay[r31]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[31]
 //Cham
-ItemDisplay[r32]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[32]
+ItemDisplay[r32]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[32]
 //Zod
-ItemDisplay[r33]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[33]
+ItemDisplay[r33]: %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RED%%RUNENAME% %PURPLE%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %TAN%[33]
 
 //
 //╔════════════════════════╗
@@ -1291,11 +1290,11 @@ ItemDisplay[NMAG WP6]:
 //║ Gears Unique ║
 //╚══════════════╝
 //
-ItemDisplay[UNI !ID rin]: %GREEN%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %GREEN%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
-ItemDisplay[UNI !ID amu]: %GREEN%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %GREEN%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
-ItemDisplay[UNI !ID jew]: %GREEN%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %GREEN%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
-ItemDisplay[UNI !ID cm1]: %GREEN%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %GREEN%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
-ItemDisplay[UNI !ID cm2]: %GREEN%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %GREEN%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
+ItemDisplay[UNI !ID rin]: %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %RED%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
+ItemDisplay[UNI !ID amu]: %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %RED%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
+ItemDisplay[UNI !ID jew]: %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %RED%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
+ItemDisplay[UNI !ID cm1]: %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %RED%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
+ItemDisplay[UNI !ID cm2]: %RED%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %RED%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
 ItemDisplay[UNI !ID cm3]: %RED%¤¤¤¤¤¤¤ %PURPLE%%NAME% %RED%¤¤¤¤¤¤¤ %TAN%[%ILVL%]
 // EQ1
 ItemDisplay[UNI !ID uhm !ETH]: %GREEN%¤¤¤¤¤¤¤¤¤¤ %PURPLE%%NAME% %GREEN%¤¤¤¤¤¤¤¤¤¤ %TAN%[%ILVL%]
