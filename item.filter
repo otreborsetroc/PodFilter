@@ -199,39 +199,39 @@ ItemDisplay[skz]: %GREEN%¤¤¤¤¤ %GOLD%P Skull %GREEN%¤¤¤¤¤
 //
 //runes low [not worth cubing/collecting]
 //El
-ItemDisplay[r01]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[1]
+ItemDisplay[r01]: %GREEN%¤ %WHITE%%RUNENAME% %GREEN%¤ %TAN%[1]
 //Eld
-ItemDisplay[r02]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[2]
+ItemDisplay[r02]: %GREEN%¤ %WHITE%%RUNENAME% %GREEN%¤ %TAN%[2]
 //Tir
-ItemDisplay[r03]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[3]
+ItemDisplay[r03]: %GREEN%¤ %WHITE%%RUNENAME% %GREEN%¤ %TAN%[3]
 //Nef
-ItemDisplay[r04]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[4]
+ItemDisplay[r04]: %GREEN%¤ %WHITE%%RUNENAME% %GREEN%¤ %TAN%[4]
 //Eth
-ItemDisplay[r05]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[5]
+ItemDisplay[r05]: %GREEN%¤ %WHITE%%RUNENAME% %GREEN%¤ %TAN%[5]
 //Ith
-ItemDisplay[r06]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[6]
+ItemDisplay[r06]: %GREEN%¤ %WHITE%%RUNENAME% %GREEN%¤ %TAN%[6]
 
 //runes [maybe worth cubing/collecting]
 //Tal
-ItemDisplay[r07]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[7]
+ItemDisplay[r07]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[7]
 //Ral
-ItemDisplay[r08]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[8]
+ItemDisplay[r08]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[8]
 //Ort
-ItemDisplay[r09]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[9]
+ItemDisplay[r09]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[9]
 //Thul
-ItemDisplay[r10]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[10]
+ItemDisplay[r10]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[10]
 //Amn
-ItemDisplay[r11]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[11]
+ItemDisplay[r11]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[11]
 //Sol
-ItemDisplay[r12]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[12]
+ItemDisplay[r12]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[12]
 //Shael
-ItemDisplay[r13]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[13]
+ItemDisplay[r13]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[13]
 //Dol
-ItemDisplay[r14]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[14]
+ItemDisplay[r14]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[14]
 //Hel
-ItemDisplay[r15]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[15]
+ItemDisplay[r15]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[15]
 //Io
-ItemDisplay[r16]: %GREEN%¤¤¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤¤¤ %TAN%[16]
+ItemDisplay[r16]: %GREEN%¤¤¤ %WHITE%%RUNENAME% %GREEN%¤¤¤ %TAN%[16]
 
 //runes mid++ [worth cubing/collecting]
 //Lum
